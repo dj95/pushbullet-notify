@@ -12,13 +12,11 @@ Send notifications from the terminal to pushbullet devices.
 
 ### Installation
 
-1.) Copy the config to `~/.pushbullet-notify.conf`.
-
-2.) Get the application-token from your pushbullet-settings(https://www.pushbullet.com/#settings)
-    and insert it into the config.
-
-3.) Run `./pushbullet-notify.py -d` to list all devices and add the identifiers
-    of the wanted devices to the array in your config.
+- Copy the config to `~/.pushbullet-notify.conf`.
+- Get the application-token from your pushbullet-settings(https://www.pushbullet.com/#settings)
+  and insert it into the config.
+- Run `./pushbullet-notify.py -d` to list all devices and add the identifiers
+  of the wanted devices to the array in your config.
 
 
 ### Usage
